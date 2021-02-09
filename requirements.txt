@@ -6,7 +6,7 @@ argparse==1.2.1
 beautifulsoup4==4.3.2
 httplib2==0.9
 itsdangerous==0.24
-requests==2.4.3
+requests==2.20.0
 six==1.8.0
 twilio==3.6.9
 uWSGI==2.0.8
